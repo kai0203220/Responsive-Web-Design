@@ -1,0 +1,15 @@
+@mixin flexe{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+@mixin flexb{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+@mixin flexc{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
